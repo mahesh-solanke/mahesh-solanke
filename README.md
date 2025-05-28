@@ -39,6 +39,33 @@ I'm a backend developer who loves building scalable APIs, streamlining workflows
 
 ---
 
+### 📊 DevTrack Sample Metrics
+
+DevTrack SDK provides comprehensive statistics to help you monitor your API's performance. Here are some sample metrics:
+
+- **Total Requests Tracked**: 42
+- **Average Response Time**: 150.5 ms
+- **Most Frequent Endpoint**: `/api/users`
+- **Common HTTP Method**: GET
+- **Status Code Distribution**: 200, 404, 500
+
+These insights are crucial for optimizing your API's efficiency and reliability.
+
+---
+
+### 📈 DevTrack PyPI Stats
+
+![PyPI - Downloads](https://img.shields.io/pypi/dm/devtrack-sdk?label=PyPI%20Downloads)
+![PyPI - Version](https://img.shields.io/pypi/v/devtrack-sdk?label=PyPI%20Version)
+
+---
+
+### 🐍 Supported Python Versions for DevTrack
+
+![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+
+---
+
 ### 📊 GitHub Stats
 
 ![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahesh-solanke&show_icons=true&hide_title=true&hide_border=true&theme=default)
